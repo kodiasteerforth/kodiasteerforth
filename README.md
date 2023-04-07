@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://www.steerforthhope.com/](https://www.steerforthhope.com/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
