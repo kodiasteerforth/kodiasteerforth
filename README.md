@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steerforth Kodia</h1>
-<h3 align="center">I'm a smart contract/blockchain software engineer. My goal is to create amazing things and contribute as much as I can to the community.</h3>
-
-- 📝I write articles on a regular basis via [https://hashnode.com/@TheRealMvp](https://hashnode.com/@TheRealMvp)
+<h3 align="center">I am a passionate blockchain developer driven by a relentless desire to turn ideas into reality through the design, development, and implementation of decentralized applications and technologies.</h3>
 
 - You can contact me at **kodiasteerforth@gmail.com**
 
