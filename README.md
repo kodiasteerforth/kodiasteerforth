@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steerforth Kodia</h1>
-<h3 align="center">I'm a smart contract/blockchain software engineer. My goal is to create amazing things and contribute as much as I can to the blockchain community.</h3>
+<h3 align="center">I'm a smart contract/blockchain software engineer. My goal is to create amazing things and contribute as much as I can to the community.</h3>
 
-- 🌱 I’m currently learning **Solidity, Javascript, React**
+- 📝I write articles on a regular basis via [https://hashnode.com/@TheRealMvp](https://hashnode.com/@TheRealMvp)
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- You can contact me at **kodiasteerforth@gmail.com**
 
-- 📝 I regularly write articles on [https://hashnode.com/@TheRealMvp](https://hashnode.com/@TheRealMvp)
 
-- 💬 Ask me about **Solidity, EVM based blockchains**
-
-- 📫 How to reach me **kodiasteerforth@gmail.com**
-
-- 📄 Know about my experiences [https://www.steerforthhope.com/](https://www.steerforthhope.com/)
 
 <p align="left">
 </p>
