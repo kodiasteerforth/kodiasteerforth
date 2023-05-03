@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steerforth Kodia</h1>
+<h1 align="center">Hi 👋, Steerforth Kodia</h1>
 <h3 align="center">As a passionate blockchain developer, I am driven by a relentless desire to turn innovative ideas into tangible realities through the design, development, and implementation of decentralized applications and cutting-edge technologies.</h3>
 
 - You can contact me at **kodiasteerforth@gmail.com**
