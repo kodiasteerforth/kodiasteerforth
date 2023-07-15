@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Steerforth Kodia</h1>
-<h3 align="center">As an Engineer skilled in optimizing performance and accessibility through the effective utilization of complex systems. My passion lies in driving breakthrough innovations in technology and providing transformative solutions that make a lasting impact.
+<h3 align="center">As an Engineer, skilled in optimizing performance and accessibility through the effective utilization of complex systems. My passion lies in driving breakthrough innovations in technology and providing transformative solutions that make a lasting impact.
 </h3>
 
 ![Azure](https://img.shields.io/badge/azure-3670A0?style=for-the-badge&logo=azure&logoColor=ffdd54)
